@@ -1,4 +1,4 @@
-public interface SterfaceackInt {
+public interface StackInterface {
 
     public void clear();
 

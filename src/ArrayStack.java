@@ -1,7 +1,7 @@
 
 import java.util.EmptyStackException;
 
-public class ArrayStack implements SterfaceackInt {
+public class ArrayStack implements StackInterface {
     private int size;
     private Object[] array;
     private int top;
